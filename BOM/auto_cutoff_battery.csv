@@ -1,0 +1,13 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R2,R14,R16,R20,R3,R13,R7,R19,R18,R22,R17,R23,R1,R8,R15,R21,R6,R5,R12,Bridge4,R9,R4";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";22;"R";;;
+2;"U1,U5";"TO-92_Inline_Wide";2;"TL431LP";;;
+3;"J4,J3";"PinSocket_1x01_P2.54mm_Vertical";2;"Conn_01x01_Socket";;;
+4;"D2,D1";"D_DO-201AD_P15.24mm_Horizontal";2;"1N5408";;;
+5;"H3,H4,H2,H1";"MountingHole_5.3mm_M5_DIN965_Pad";4;"MountingHole";;;
+6;"Q2";"TO-220-3_Vertical";1;"IRF9540N";;;
+7;"Bridge3,Bridge1,Bridge2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical";3;"R";;;
+8;"Q3,Q7,Q8,Q9,Q10,Q5,Q4,Q6";"TO-92_Inline_Wide";8;"S8050";;;
+9;"U2,U3,U4";"DIP-4_W7.62mm";3;"PC817";;;
+10;"Q1";"TO-220-3_Vertical";1;"IRF540N";;;
+11;"J5,J6";"SolderWire-0.1sqmm_1x03_P3.6mm_D0.4mm_OD1mm";2;"Conn_01x03_Socket";;;
+12;"J1";"RJ45_Molex_0855135013_Vertical";1;"RJ45";;;
