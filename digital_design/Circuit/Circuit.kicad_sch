@@ -2368,8 +2368,8 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid cb59736e-609d-4132-9c56-12a0996d522f))
-    (pin "3" (uuid 5da5f226-59ab-4a29-98ce-d92956959a43))
     (pin "2" (uuid 9d753242-a60f-4f59-b35a-371c91488863))
+    (pin "3" (uuid 5da5f226-59ab-4a29-98ce-d92956959a43))
     (instances
       (project "Circuit"
         (path "/69de891a-8338-4abc-a21d-df6d51a273fb"
@@ -2419,22 +2419,22 @@
     (property "Datasheet" "~" (at 27.94 -55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (pin "1" (uuid e7dae868-7c35-49f2-8011-bb00474e7c1c))
+    (pin "10" (uuid 98a1ba2f-7c98-43cd-b0ec-e94fd698ef72))
+    (pin "11" (uuid cfb63f91-e153-406b-869c-5ff69a21c393))
+    (pin "12" (uuid e0a20b5e-cfae-4c21-bebc-ff045d2c05c9))
     (pin "13" (uuid 1c78c0a2-f03f-4e97-97ec-883cdb52805f))
-    (pin "7" (uuid 6b5efd3f-3986-45e7-b95c-d433aec019d9))
+    (pin "14" (uuid bb886d74-1c92-411f-83bd-3a447ef3fe1b))
     (pin "15" (uuid 6c99a56b-148b-4ea5-a884-8b5c48855845))
-    (pin "5" (uuid 7ca52204-3644-4815-8415-a73782fd5a87))
-    (pin "3" (uuid eda97ed3-8d20-4174-8a91-19f7e68bc249))
     (pin "16" (uuid 26c91638-e1c2-4a21-a0d1-d5763134bc11))
     (pin "2" (uuid 63cc924d-f574-4d28-a3d6-af58f8b30b8d))
-    (pin "14" (uuid bb886d74-1c92-411f-83bd-3a447ef3fe1b))
-    (pin "10" (uuid 98a1ba2f-7c98-43cd-b0ec-e94fd698ef72))
+    (pin "3" (uuid eda97ed3-8d20-4174-8a91-19f7e68bc249))
+    (pin "4" (uuid 611bb41c-f75a-46ee-b85e-2d9ef7444ab8))
+    (pin "5" (uuid 7ca52204-3644-4815-8415-a73782fd5a87))
+    (pin "6" (uuid 861072f3-8861-42fb-9202-e7103eb550cd))
+    (pin "7" (uuid 6b5efd3f-3986-45e7-b95c-d433aec019d9))
     (pin "8" (uuid 1060910f-e0cf-4ae9-a0ae-f83b5bb82aa0))
     (pin "9" (uuid 82665e2e-8005-48de-9927-823d09cb4487))
-    (pin "6" (uuid 861072f3-8861-42fb-9202-e7103eb550cd))
-    (pin "4" (uuid 611bb41c-f75a-46ee-b85e-2d9ef7444ab8))
-    (pin "12" (uuid e0a20b5e-cfae-4c21-bebc-ff045d2c05c9))
-    (pin "11" (uuid cfb63f91-e153-406b-869c-5ff69a21c393))
-    (pin "1" (uuid e7dae868-7c35-49f2-8011-bb00474e7c1c))
     (instances
       (project "Circuit"
         (path "/69de891a-8338-4abc-a21d-df6d51a273fb"
@@ -2525,7 +2525,7 @@
     (property "Reference" "R6" (at -33.02 -45.72 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "180" (at -33.02 -43.18 90)
+    (property "Value" "1k" (at -33.02 -43.18 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (at -33.02 -42.672 90)
@@ -3071,8 +3071,8 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 221a44a4-f429-4ac7-ba09-c00139f46768))
-    (pin "3" (uuid 3ab5c379-44a5-4a8d-83cb-7d4eb537c16f))
     (pin "2" (uuid 1e0796d6-96da-4cd2-8ec1-82351121faf3))
+    (pin "3" (uuid 3ab5c379-44a5-4a8d-83cb-7d4eb537c16f))
     (instances
       (project "Circuit"
         (path "/69de891a-8338-4abc-a21d-df6d51a273fb"
@@ -3306,8 +3306,8 @@
     )
     (pin "1" (uuid 82d06a84-981c-4e8a-9875-d85bde86387a))
     (pin "2" (uuid aa6e86ec-0f36-409b-8618-5e4c961fcde2))
-    (pin "4" (uuid 35ea8134-b9ce-4e46-a641-4d2d6c2991ce))
     (pin "3" (uuid 6a150c91-aa5c-46ac-9168-35c344517aa8))
+    (pin "4" (uuid 35ea8134-b9ce-4e46-a641-4d2d6c2991ce))
     (instances
       (project "Circuit"
         (path "/69de891a-8338-4abc-a21d-df6d51a273fb"
