@@ -33,7 +33,7 @@
 
 #define DEBUG_MODE
 
-#define V_BAT_MAX 870  // 12.9v
+#define V_BAT_MAX 930  // 
 #define V_BAT_MIN 734  //10.5v
 
 #include <gpio-hal.h>

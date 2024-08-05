@@ -47,7 +47,7 @@ void main(void) {
     gpioWrite(&nmos, nmos_state);
     gpioWrite(&pmos, pmos_state);
     gpioWrite(&red_led, !nmos_state);
-    gpioWrite(&green_led, (nmos_state && !pmos_state));
+    gpioWrite(&green_led, ((nmos_state && !pmos_state) && (v_bat > V_BAT_MIN)));
     gpioWrite(&blue_led, pmos_state);
 
 		printf("ADC = %u, v_inout = %u, nmos: %u, pmos: %u\r\n", v_bat, v_in_out_state, !nmos_state, pmos_state);
